@@ -45,7 +45,8 @@ dependencies {
     testImplementation TestDependencies.junit
     androidTestImplementation TestDependencies.android_test_runnerx
     androidTestImplementation TestDependencies.espresso_corex
-}```
+}
+```
 
 # How to use it?
 Clone this repo onto your project's root directory and build your project.
