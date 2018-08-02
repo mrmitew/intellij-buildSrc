@@ -44,6 +44,7 @@ object Versions {
     const val appcompatx = "1.0.0-beta01"
     const val designx = "1.0.0-alpha1"
     const val constraint_layoutx = "1.1.2"
+    const val cardview_x = "1.0.0-alpha1"
 
     // Test
     const val junit = "4.12"
@@ -100,6 +101,7 @@ object UiDependencies {
     const val design = "com.android.support:design:${Versions.support}"
     const val design_x = "com.google.android.material:material:${Versions.designx}"
     const val cardview_v7 = "com.android.support:cardview-v7:${Versions.support}"
+    const val cardview_x = "androidx.cardview:cardview:${Versions.cardview_x}"
     const val recyclerview_v7 = "com.android.support:recyclerview-v7:${Versions.support}"
     const val constraint_layout = "com.android.support.constraint:constraint-layout:${Versions.constraint_layout}"
     const val constraint_layoutx = "androidx.constraintlayout:constraintlayout:${Versions.constraint_layoutx}"
